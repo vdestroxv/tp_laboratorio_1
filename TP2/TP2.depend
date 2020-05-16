@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589592732 source:c:\users\alguien\desktop\facultad\clases\tps para el git\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1589582022 c:\users\alguien\desktop\facultad\clases\tps para el git\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589592643 source:c:\users\alguien\desktop\facultad\clases\tps para el git\tp2\main.c
+	"ArrayEmployees.h"
+
