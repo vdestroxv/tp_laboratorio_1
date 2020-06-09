@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1591708406 source:c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\dueños.c
+	"dueños.h"
+
+1591706587 source:c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dueños-mascotas.h"
+
+1591708406 source:c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\mascotas.c
+	"mascotas.h"
+
+1591669048 c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\mascotas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591708223 source:c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\dueños-mascotas.c
+	"dueños-mascotas.h"
+
+1591705952 c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\dueños-mascotas.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"dueños.h"
+
+1591707463 c:\users\alguien\desktop\facultad\clases\tps para el git\parcial 1\dueños.h
+	<stdio.h>
+	<string.h>
+
